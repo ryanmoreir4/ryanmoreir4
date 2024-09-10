@@ -4,11 +4,11 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudante+de+Sistemas+de+Informação,;Me+encontrando+na+área+de+TI,;Em+busca+de+aprendizado"></a>
 </p>
-<br>
-	
+<br>	
 ## **About me**
 
 - Desenvolvedor em formação
+- 
 
 <br>
 
@@ -20,6 +20,8 @@
 <p align="center">
 
 - **Linguagens**:
+
+- **Front-end Development**:
     
     ![C#](https://img.shields.io/badge/C#%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![PHP](https://img.shields.io/badge/PHP%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
