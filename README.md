@@ -41,11 +41,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=ryanmoreir4&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
-
-<br>
-<br>
-<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanmoreir4&show_icons=true)
 <br>
 <br>
 
@@ -53,7 +49,7 @@
 
 
 
-## <b> Entre em contato!</b>
+## <b> Entre em contato comigo!</b>
 <br>
 <div align='left'>
 
