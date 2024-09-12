@@ -32,7 +32,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"><b> Github Stats </b>
 <br>
 
 ![Ryan Moreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanmoreir4&hide=issues&show_icons=true)
@@ -42,7 +42,7 @@
 
 
 
-## <b> Entre em contato comigo!</b>
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="35px"><b> Contact Me </b>
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-moreira)
