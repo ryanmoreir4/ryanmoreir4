@@ -35,8 +35,8 @@
 <br>
 
 ![Ryan Moreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanmoreir4&hide=issues&show_icons=true)
+<img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanmoreir4&layout=compact"/>
 <br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
